@@ -68,6 +68,9 @@ instance/
 # Scrapy stuff:
 .scrapy
 
+# Ignore Mac system files
+.DS_store
+
 # Sphinx documentation
 docs/_build/
 
